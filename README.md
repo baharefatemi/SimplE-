@@ -1,6 +1,7 @@
 # SimplE+
 Datasets used in paper "improved knowledge graph embedding using background taxonomic information"
 
+The code for this paper can be found in https://github.com/baharefatemi/SimplE
 
 # Cite SimplE+
 
