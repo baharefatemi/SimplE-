@@ -1,7 +1,8 @@
 # SimplE+
 Datasets used in paper "improved knowledge graph embedding using background taxonomic information"
 
-## Cite SimplE+
+
+# Cite SimplE+
 
 If you use this datasets for published work, please cite the following paper:
 
